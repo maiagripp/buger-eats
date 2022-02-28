@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Claudia Maia",
+    "cpf": "03338074050",
+    "email": "emaildaclaudia@gmail.com",
+    "whatsapp": "27999991111",
+    "address": {
+      "postalcode": "29308235",
+      "street": "Rua Guarulhos",
+      "number": "1000",
+      "details": "casa",
+      "district": "Aquidaban",
+      "city_state": "Cachoeiro de Itapemirim/ES"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "cpf_invalido": {
+    "name": "Claudia Maia",
+    "cpf": "033380740AA",
+    "email": "emaildaclaudia@gmail.com",
+    "whatsapp": "27999991111",
+    "address": {
+      "postalcode": "29308235",
+      "street": "Rua Guarulhos",
+      "number": "1000",
+      "details": "casa",
+      "district": "Aquidaban",
+      "city_state": "Cachoeiro de Itapemirim/ES"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "email_invalido": {
+    "name": "Claudia Maia",
+    "cpf": "03338074050",
+    "email": "emaildaclaudiagmail.com",
+    "whatsapp": "27999991111",
+    "address": {
+      "postalcode": "29308235",
+      "street": "Rua Guarulhos",
+      "number": "1000",
+      "details": "casa",
+      "district": "Aquidaban",
+      "city_state": "Cachoeiro de Itapemirim/ES"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
