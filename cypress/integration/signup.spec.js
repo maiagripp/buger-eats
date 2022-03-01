@@ -1,5 +1,5 @@
 import signupPage from "../pages/SignupPage";
-import signupFactory from "../factories/SignUpFactory";
+import signupFactory from "../factories/SignupFactory";
 
 describe("Signup", () => {
   // beforeEach(function () {
